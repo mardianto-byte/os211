@@ -10,3 +10,14 @@ ZCZC W00 85 L02 ZOOM related
 ZCZC W01 100 LO2 ZOOM related
 ZCZC W01 60 L06 Reading references
 ZCZC W01 30 L05 GSGS virtualbox
+ZCZC W01 300 L11 Assignment #1 
+ZCZC W01 30 L06 Reading references
+ZCZC W01 150 L12 Assignment #2
+ZCZC W01 30 L09 AsDos: asking
+ZCZC W01 30 L13 Assignment #3
+ZCZC W01 20 Reading references
+ZCZC W01 105 L14 Assignment #4
+ZCZC W01 10 Reading references
+ZCZC W01 45 L15 Assignment #5
+ZCZC W01 30 L22 Youtube: delete directory 
+ZCZC W01 10 L16 Assignment #6
