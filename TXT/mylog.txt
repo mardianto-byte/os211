@@ -33,4 +33,8 @@ ZCZC W02 05 L15 Assignment #5 Export my Public Key
 ZCZC W02 10 L16 Assignment #6 pick 3/10 and place it in myrank.txt
 ZCZC W02 10 L18 Assignment #8 copy a simple and useful bash script
 ZCZC W02 10 L19 Assignment #9 update mylog.txt
-ZCZC W02 15 L20 Make SHA256SUM and sign it as SHA256SUM.asc  
+ZCZC W02 15 L20 Assignment #10 Make SHA256SUM and sign it as SHA256SUM.asc
+ZCZC W02 120 L11 Assignment #1 Read OSC10
+ZCZC W02 60 L05 GSGS for 10 list
+ZCZC W02 30 L17 Assignment #7 update top 10 list
+ZCZC W02 25 L22 Youtube : C language  
