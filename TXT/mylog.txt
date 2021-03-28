@@ -48,3 +48,14 @@ ZCZC W03 40 L11 Assignment #1
 ZCZC W03 90 L05 GSGS for top 10 list
 ZCZC W03 35 L15 Assignment #5
 ZCZC W03 05 L19 Assignment #9
+ZCZC W04 100 L02 ZOOM related
+ZCZC W04 40 L11 Assignment #1
+ZCZC W04 35 L12 Assignment #2 Try Demos week 04
+ZCZC W04 15 L13 Assignment #3
+ZCZC W04 180 L05 GSGS Top 10 list 
+ZCZC W04 30 L14 Assignment #4 
+ZCZC W04 05 L15 Assignment #5
+ZCZC W04 25 L16 Assignment #6
+ZCZC W04 05 L17 Assignment #7
+ZCZC W04 05 L18 Assignment #8
+
