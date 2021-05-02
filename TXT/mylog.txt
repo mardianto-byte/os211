@@ -64,3 +64,7 @@ ZCZC W05 180 L10 Assignment (general)
 ZCZC W06 100 L02 ZOOM Related
 ZCZC W06 120 L05 GSGS Top 10 list
 ZCZC W06 180 L10 Assignment (general)
+ZCZC W07 100 L02  ZOOM Related
+ZCZC W07 30 L99 Quiz
+ZCZC W07 150 L10 Assignment (General)
+ZCZC W07 150 L05 GSGS Top 10 list
